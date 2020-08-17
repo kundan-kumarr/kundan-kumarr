@@ -27,11 +27,3 @@ I am open to work for research and techincal companies and interesting open-sour
 📝Linkedin - https://www.linkedin.com/in/kundan7kumar/
 📝Twitter - https://twitter.com/kundan7kumar
 📝Medium - https://medium.com/@kkundankumar
-
-About
-No description, website, or topics provided.
-Resources
- Readme
-Releases
-No releases published
-© 2020 GitHub, Inc.
