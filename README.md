@@ -14,21 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello Visitor 👋
-I am an MS Computer Science student at Iowa State University. I also work as a Research Assistant in Dr.Wurtele's lab at ISU, where I contribute towards the development of Software tools, scripts and techniques for Computational Biology research.
 
-My interests lie in the fields of Algorithm design for large datasets, Deep Learning, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
+I am an PhD Student at Iowa State University in Computer Science Department. 
 
-I am proficient in Java, Python and C. In Python, I have used Tensorflow Keras, Scikit Learn, Pandas and Numpy libraries to develop Machine Learning models. In Java, I have worked on J2EE web development, Swing and AWT desktop application development and general purpose application development.
+My interests lie in the fields of Machine Learning, Deep Learning, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
 
-Prior to joining ISU, I had worked at Hewlett Packard Enterprise for 2.5 years and then Infosys Ltd for another 2.5 years in different Software Development positions. Working for those companies helped me gain much required skills in the areas of Software Development, CI/CD, DevOps, Agile development, Optimization and Business Communication.
+I am proficient in Python, Java and C++. In Python, I have used Tensorflow, Pytorch, Keras, Scikit Learn, Pandas and Numpy libraries to develop Machine Learning models. In Java, I have worked on J2EE web development, Spring Boot and Spring MVC application development.
 
-I am always open to work for technology-driven companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
 
-📝Linkedin - https://www.linkedin.com/in/sriharshavk/
-📝Twitter - https://twitter.com/KVajjhala
-📝Medium - https://medium.com/@vk.sriharsha
-Au Revoir!!
+I am open to work for research and techincal companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
+
+📝Linkedin - https://www.linkedin.com/in/kundan7kumar/
+📝Twitter - https://twitter.com/kundan7kumar
+📝Medium - https://medium.com/@kkundankumar
+
 About
 No description, website, or topics provided.
 Resources
