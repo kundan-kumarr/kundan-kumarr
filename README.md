@@ -25,5 +25,7 @@ I am proficient in Python, Java and C++. In Python, I have used Tensorflow, Pyto
 I am open to work for research and techincal companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
 
 📝Linkedin - https://www.linkedin.com/in/kundan7kumar/
+
 📝Twitter - https://twitter.com/kundan7kumar
+
 📝Medium - https://medium.com/@kkundankumar
