@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am an PhD Student at Iowa State University in Computer Science Department. 
 
-My interests lie in the fields of Machine Learning, Deep Learning, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
+My interests lie in the fields of Machine Learning, Deep Learning,Self Driving Car, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
 
 I am proficient in Python, Java and C++. In Python, I have used Tensorflow, Pytorch, Keras, Scikit Learn, Pandas and Numpy libraries to develop Machine Learning models. In Java, I have worked on J2EE web development, Spring Boot and Spring MVC application development.
 
@@ -26,6 +26,6 @@ I am open to work for research and techincal companies and interesting open-sour
 
 📝Linkedin - https://www.linkedin.com/in/kundan7kumar/
 
-📝Twitter - https://twitter.com/kundan7kumar
+📝Website - https://kundan7kumar.github.io/
 
 📝Medium - https://medium.com/@kkundankumar
