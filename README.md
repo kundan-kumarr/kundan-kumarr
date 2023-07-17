@@ -21,7 +21,7 @@ My interests lie in the fields of Machine Learning, Deep Learning,Self Driving C
 
 I am proficient in Python, Java and C++. In Python, I have used Tensorflow, Pytorch, Keras, Scikit Learn, Pandas and Numpy libraries to develop Machine Learning models. In Java, I have worked on J2EE web development, Spring Boot and Spring MVC application development.
 
-
+----------------------------------------------------------------------------------
 I am open to work for research and techincal companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
 
 📝Linkedin - https://www.linkedin.com/in/kundan7kumar/
