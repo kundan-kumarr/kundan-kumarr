@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an PhD Student at Iowa State University in Computer Science Department. 
+Hello! I'm a highly skilled PhD student studying Computer Science with a minor in statistics at Iowa State University. My passion lies in Machine Learning, Deep Learning, Self-driving cars, Reinforcement Learning, and Artificial Intelligence, and I'm dedicated to contributing to the open-source software development community in these areas.
 
-My interests lie in the fields of Machine Learning, Deep Learning,Self Driving Car, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
+Python, Java, and C++ proficiency allows me to create cutting-edge Machine Learning models using libraries such as Tensorflow, Pytorch, Keras, Scikit Learn, Pandas, and Numpy. My expertise also extends to Software development in Python and Java.
 
-I am proficient in Python, Java and C++. In Python, I have used Tensorflow, Pytorch, Keras, Scikit Learn, Pandas and Numpy libraries to develop Machine Learning models. In Java, I have worked on J2EE web development, Spring Boot and Spring MVC application development.
+I'm confident in my abilities and eager to continue pushing the boundaries of what's possible in the exciting world of computer science.
 
 ----------------------------------------------------------------------------------
 I am open to work for research and techincal companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
