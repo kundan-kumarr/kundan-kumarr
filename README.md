@@ -28,4 +28,4 @@ I am open to work for research and techincal companies and interesting open-sour
 
 📝Website - https://kundan7kumar.github.io/
 
-📝Medium - https://medium.com/@kkundankumar
+📝Medium - https://medium.com/@cs.kundann
