@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a highly skilled PhD student studying Computer Science with a minor in statistics at Iowa State University. My passion lies in Machine Learning, Deep Learning, Self-driving cars, Reinforcement Learning, and Artificial Intelligence, and I'm dedicated to contributing to the open-source software development community in these areas.
-
-Python, Java, and C++ proficiency allows me to create cutting-edge Machine Learning models using libraries such as Tensorflow, Pytorch, Keras, Scikit Learn, Pandas, and Numpy. My expertise also extends to Software development in Python and Java.
-
-I'm confident in my abilities and eager to continue pushing the boundaries of what's possible in the exciting world of computer science.
+I am a Ph.D. student in Computer Science, specializing in Deep Reinforcement Learning (DRL) with a minor in Statistics. I have a strong foundation in computer science and 5 years of practical software development experience. I am passionate about applying reinforcement learning techniques to solve complex problems and create intelligent agents that can learn and adapt in dynamic environments. My extensive experience in software development has honed my problem-solving skills and programming proficiency, making me a versatile researcher who can bridge the gap between theoretical concepts and practical applications. I have worked on various software projects and gained expertise in various programming languages and development methodologies, making me an asset to my academic pursuits. I have a foundation in statistical analysis, which allows me to apply rigorous data-driven approaches to my research in DRL. I aim to contribute meaningfully to developing intelligent algorithms to drive innovation in various applications, from autonomous systems to power systems. I am driven by a passion for technology, a thirst for knowledge, and a desire to push the boundaries of what is possible in computer science and AI.
 
 ----------------------------------------------------------------------------------
-I am open to work for research and techincal companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
+I am interested in working with research and technical companies as well as engaging in open-source projects. Feel free to reach out to me on Github or any of the platforms listed below:
 
 📝Linkedin - https://www.linkedin.com/in/kundan7kumar/
 
