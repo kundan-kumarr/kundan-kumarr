@@ -20,11 +20,11 @@ I am a Ph.D. student in Computer Science, specializing in Deep Reinforcement Lea
 ----------------------------------------------------------------------------------
 I am interested in working with research and technical companies as well as engaging in open-source projects. Feel free to reach out to me on Github or any of the platforms listed below:
 
-📝Linkedin - https://www.linkedin.com/in/kundan7kumar/
+**📝Linkedin:** https://www.linkedin.com/in/kundan7kumar/
 
-📝Website - https://kundan7kumar.github.io/
+**📝Personal-Website:** https://kundan7kumar.github.io/
 
-📝Medium - https://medium.com/@cs.kundann
+**📝Medium-Blogs:** https://medium.com/@cs.kundann
 
 ----------------------------------------------------------------------------------
 
