@@ -27,3 +27,11 @@ I am interested in working with research and technical companies as well as enga
 📝Medium - https://medium.com/@cs.kundann
 
 ----------------------------------------------------------------------------------
+
+**Algorithm Interview Preparation:** https://github.com/kundan7kumar/algorithmic-challenge
+
+**Research/Data Scientist Interview Preparation:** https://github.com/kundan7kumar/research-scientist
+
+**Research Notes:** https://github.com/kundan7kumar/RL_Research
+
+----------------------------------------------------------------------------------
