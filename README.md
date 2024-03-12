@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
 </a> -->
 <a href="https://medium.com/@cs.kundann">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Medium-2CA5E0?logo=medium&color=black" alt="" />
+    <img src="https://img.shields.io/badge/Medium-2CA5E0?logo=medium&color=black" alt="" />
 
 </a>
 
