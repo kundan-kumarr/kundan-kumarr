@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 [![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&multiline=true&random=false&width=435&height=80&lines=Kundan+Kumar;AI+Researcher)](https://github.com/kundan7kumar)
-p>
+<p>
 
 </a>
-<a href="https://scholar.google.com/citations?user=LrTIp5IAAAAJ">
+<a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
 </a>
-<a href="https://orcid.org/0000-0002-7935-0569">
+<a href="https://orcid.org/0000-0002-3229-6649">
     <img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
 </a>
 <a href="mailto:neweraairesearch@gmail.com">
@@ -35,11 +35,6 @@ p>
 <a href="https://t.me/dmitry_ryumin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="" />
 </a>
-<br />
-<a href="https://github.com/DmitryRyumin">
-    <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
-</a>
-<br />
 
 </p>
 
