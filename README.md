@@ -33,12 +33,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
 </a> -->
 <a href="https://medium.com/@cs.kundann">
-    <img src="https://img.shields.io/badge/Medium-2CA5E0?logo=medium&color=black" alt="" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Medium-2CA5E0?logo=medium&color=black" alt="" />
 
 </a>
 
 </p>
-![Static Badge](https://img.shields.io/badge/Medium-2CA5E0?logo=medium&color=black)
 
 I am a Ph.D. student in Computer Science, specializing in Deep Reinforcement Learning (DRL) with a minor in Statistics. I have a strong foundation in computer science and 5 years of practical software development experience. I am passionate about applying reinforcement learning techniques to solve complex problems and create intelligent agents that can learn and adapt in dynamic environments. My extensive experience in software development has honed my problem-solving skills and programming proficiency, making me a versatile researcher who can bridge the gap between theoretical concepts and practical applications. I have worked on various software projects and gained expertise in various programming languages and development methodologies, making me an asset to my academic pursuits. I have a foundation in statistical analysis, which allows me to apply rigorous data-driven approaches to my research in DRL. I aim to contribute meaningfully to developing intelligent algorithms to drive innovation in various applications, from autonomous systems to power systems. I am driven by a passion for technology, a thirst for knowledge, and a desire to push the boundaries of what is possible in computer science and AI.
 
