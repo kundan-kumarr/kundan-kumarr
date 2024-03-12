@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&multiline=true&random=false&width=435&height=80&lines=Kundan+Kumar;AI+Researcher)](https://github.com/kundan7kumar)
+
+[![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher)](https://github.com/kundan7kumar)
 <p>
 
 </a>
