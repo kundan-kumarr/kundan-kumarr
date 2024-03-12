@@ -22,9 +22,9 @@ I am interested in working with research and technical companies as well as enga
 
 **📝Linkedin:** https://www.linkedin.com/in/kundan7kumar/
 
-**📝Personal-Website:** https://kundan7kumar.github.io/
+**📝Website:** https://kundan7kumar.github.io/
 
-**📝Medium-Blogs:** https://medium.com/@cs.kundann
+**📝Blogs:** https://medium.com/@cs.kundann
 
 ----------------------------------------------------------------------------------
 
