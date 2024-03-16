@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
 <br />
-<a href="https://kundan7kumar.github.io/">
+<a href="https://kundan-kumarr.github.io/">
     <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" />
 </a>
 <a href="https://medium.com/@cs.kundann">
