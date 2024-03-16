@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://medium.com/@cs.kundann">
     <img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" />
-
 </a>
+<a href="https://www.linkedin.com/in/kundan7kumar/">
+    <img src="https://img.shields.io/badge/Linkedin2CA5E0?style=plastic&logo=medium&color=White" alt="" />
 
 </p>
 
