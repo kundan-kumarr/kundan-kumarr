@@ -30,9 +30,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="" />
 </a>
 <br />
-<!-- <a href="https://huggingface.co/DmitryRyumin">
-    <img src="https://img.shields.io/badge/🤗-Hugging%20Face-FFD21F.svg?style=flat-square&&logoColor=white" alt="" />
-</a> -->
+<a href="https://kundan7kumar.github.io/">
+    <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red&labelColor=fedcba&link=https%3A%2F%2Fkundan7kumar.github.io%2F" alt="" />
+</a>
 <a href="https://medium.com/@cs.kundann">
     <img alt="Static Badge" src="https://img.shields.io/badge/Medium-2CA5E0?logo=medium&color=black" alt="" />
 
