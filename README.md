@@ -50,10 +50,10 @@ I am interested in working with research and technical companies as well as enga
 
 ----------------------------------------------------------------------------------
 
-**Algorithm Interview Preparation:** https://github.com/kundan7kumar/algorithmic-challenge
+**Algorithm Interview Preparation:** https://github.com/kundan-kumarr/algorithmic-challenge
 
-**Research/Data Scientist Interview Preparation:** https://github.com/kundan7kumar/research-scientist
+**Research/Data Scientist Interview Preparation:** https://github.com/kundan-kumarr/research-scientist
 
-**Research Notes:** https://github.com/kundan7kumar/RL_Research
+**Research Notes:** https://github.com/kundan-kumarr/RL_Research
 
 ----------------------------------------------------------------------------------
