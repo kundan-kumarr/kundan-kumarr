@@ -54,6 +54,6 @@ I am interested in working with research and technical companies as well as enga
 
 **Research/Data Scientist Interview Preparation:** https://github.com/kundan-kumarr/research-scientist
 
-**Research Notes:** https://github.com/kundan-kumarr/RL_Research
+**Research Notes:** https://github.com/kundan-kumarr/DRL-Research
 
 ----------------------------------------------------------------------------------
