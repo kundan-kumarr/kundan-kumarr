@@ -48,6 +48,9 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 I am interested in working with research and technical companies as well as engaging in open-source projects. Feel free to reach out to me on Github or any of the platforms listed below:
 
 **📝Linkedin:** https://www.linkedin.com/in/kundan7kumar/
+<a href="https://www.linkedin.com/in/kundan7kumar/">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn">
+   </a>
 
 ----------------------------------------------------------------------------------
 
