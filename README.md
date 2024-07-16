@@ -37,8 +37,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" />
 </a>
 <a href="https://www.linkedin.com/in/kundan7kumar/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn">
    </a>
 
 </p>
