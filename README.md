@@ -52,10 +52,9 @@ I am interested in working with research and technical companies as well as enga
 
 ----------------------------------------------------------------------------------
 
-**Algorithm Interview Preparation:** https://github.com/kundan-kumarr/algorithmic-challenge
+<img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation-orange?style=plastic&logo=Github">
 
-**Research/Data Scientist Interview Preparation:** https://github.com/kundan-kumarr/research-scientist
+<img alt="Static Badge" src="https://img.shields.io/badge/Github-Research_Notes-blue?style=plastic&logo=Github&logoSize=20">
 
-**Research Notes:** https://github.com/kundan-kumarr/DRL-Research
 
 ----------------------------------------------------------------------------------
