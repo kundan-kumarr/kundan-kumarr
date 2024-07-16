@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="mailto:neweraairesearch@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" />
 </a>
-<br />
+
 <a href="https://kundan-kumarr.github.io/">
     <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" />
 </a>
