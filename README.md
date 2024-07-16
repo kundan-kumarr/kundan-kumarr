@@ -56,5 +56,8 @@ I am interested in working with research and technical companies as well as enga
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Github-Research_Notes-blue?style=plastic&logo=Github&logoSize=20">
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=plastic&logo=Notion">
+
+
 
 ----------------------------------------------------------------------------------
