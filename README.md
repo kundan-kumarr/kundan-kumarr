@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 
 [![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher)](https://github.com/kundan7kumar)
-<p>
 
-</a>
+
+<p>
+<p align="center">
+    <a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+    
 <a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" />
 </a>
