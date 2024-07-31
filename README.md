@@ -49,8 +49,8 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -86,7 +86,6 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 
 ###
 
-###
 <div align="center">
   <img src="https://profile-counter.glitch.me/kundan-kumarr/count.svg?"  />
 </div>
