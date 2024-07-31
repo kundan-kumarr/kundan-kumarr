@@ -85,14 +85,15 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 </div>
 
 ###
+<div align="center">
+<img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/kundan-kumarr/count.svg?"  />
 </div>
 
 ###
-<div align="center">
-<img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
-</div>
+
 ###
 
