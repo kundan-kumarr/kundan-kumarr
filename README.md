@@ -33,7 +33,7 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 <a href="https://www.linkedin.com/in/kundan7kumar/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
 <a href="mailto:neweraairesearch@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
 </p>
-----------------------------------------------------------------------------------------------------------------------------------
+**----------------------------------------------------------------------------------------------------------------------------------**
 
 
 > Interview Preparation guide & Notes👨‍🔬 
