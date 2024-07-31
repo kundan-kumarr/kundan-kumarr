@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcement Learning (DRL) and also studying Statistics as a minor. I possess a solid background in computer science and have worked in software development for 5 years. I have a strong enthusiasm for using reinforcement learning methods to tackle intricate issues and develop intelligent agents capable of learning and adjusting in ever-changing settings. Through my vast background in software development, my abilities in problem-solving and programming have been sharpened, allowing me to be a versatile researcher capable of connecting theoretical concepts with practical uses. I have participated in different software projects, acquiring skills in multiple programming languages and development methods, which has benefited my academic endeavors. My background includes statistical analysis, enabling me to implement rigorous data-driven methods in my research on DRL. I strive to actively participate in the advancement of intelligent algorithms in a wide range of applications, including autonomous systems and power systems, to foster innovation. My motivation stems from a love for technology, a hunger for learning, and a drive to explore the limits of computer science and AI.
 
-Feel free to connect and future collaborations ⏬
+> Feel free to connect and future collaborations ⏬
 <p align ="center"> 
 <a href="https://www.linkedin.com/in/kundan7kumar/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
 <a href="mailto:neweraairesearch@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
