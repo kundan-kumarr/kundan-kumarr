@@ -35,6 +35,7 @@ Feel free to connect and future collaborations.
 <a href="mailto:neweraairesearch@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
 </p>
 ----------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Feel free to connect and future collaborations. 
 <p align ="center"> 
 <a href="https://github.com/kundan-kumarr/Research-Scientist_interview_Preparation"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation-orange?style=plastic&logo=Github"></a>
