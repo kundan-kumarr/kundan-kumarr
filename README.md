@@ -33,8 +33,8 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 <a href="https://www.linkedin.com/in/kundan7kumar/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
 <a href="mailto:neweraairesearch@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
 </p>
-**----------------------------------------------------------------------------------------------------------------------------------**
 
+----------------------------------------------------------------------------------------------------------------------------------
 
 > Interview Preparation guide & Notes👨‍🔬 
 <p align ="center"> 
@@ -42,5 +42,5 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 <a href="https://github.com/kundan-kumarr/DRL-Research/"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research_Notes-blue?style=plastic&logo=Github&logoSize=20"></a> 
 <a href="https://kkumarr.notion.site/Kundan-Kumar-be98587a184d465da5510f2fce263585/"><img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=plastic&logo=Notion"></a>
 </p>
-----------------------------------------------------------------------------------
+
 
