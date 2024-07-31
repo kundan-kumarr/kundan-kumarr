@@ -51,13 +51,17 @@ I am interested in working with research and technical companies as well as enga
    </a>
 
 ----------------------------------------------------------------------------------
-
+<a href="[https://www.linkedin.com/in/kundan7kumar/](https://github.com/kundan-kumarr/Research-Scientist_interview_Preparation)">
 <img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation-orange?style=plastic&logo=Github">
-
+ </a>
+ 
+<a href="https://www.linkedin.com/in/kundan7kumar/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Github-Research_Notes-blue?style=plastic&logo=Github&logoSize=20">
-
+ </a>
+ 
+<a href="https://www.linkedin.com/in/kundan7kumar/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=plastic&logo=Notion">
-
+ </a>
 
 
 ----------------------------------------------------------------------------------
