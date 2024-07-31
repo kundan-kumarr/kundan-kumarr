@@ -43,7 +43,7 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 <a href="https://kkumarr.notion.site/Kundan-Kumar-be98587a184d465da5510f2fce263585/"><img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=plastic&logo=Notion"></a>
 </p>
 
-
+-----------------------------------------------
 <h2 align="left">I code with</h2>
 
 ###
