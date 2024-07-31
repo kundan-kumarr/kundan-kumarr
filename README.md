@@ -90,7 +90,8 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 </div>
 
 <div align="center">
- Profile Visitor: <img src="https://profile-counter.glitch.me/kundan-kumarr/count.svg?"  />
+  <p><strong>Profile Visitors</strong></p>
+  <img src="https://profile-counter.glitch.me/kundan-kumarr/count.svg?" alt="Profile Visitor Count" />
 </div>
 
 ###
