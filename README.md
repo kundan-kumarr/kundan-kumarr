@@ -44,8 +44,8 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 </p>
 
 -----------------------------------------------
-<h2 align="left">I code with</h2>
 
+> I code with 💻 
 ###
 
 <div align="left">
