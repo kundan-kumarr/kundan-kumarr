@@ -36,7 +36,7 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
-Interview Preparation guide 👨‍🔬 
+> Interview Preparation guide 👨‍🔬 
 <p align ="center"> 
 <a href="https://github.com/kundan-kumarr/Research-Scientist_interview_Preparation"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation-orange?style=plastic&logo=Github"></a>
 <a href="https://github.com/kundan-kumarr/DRL-Research/"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research_Notes-blue?style=plastic&logo=Github&logoSize=20"></a> 
