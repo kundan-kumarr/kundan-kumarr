@@ -1,23 +1,8 @@
-### 
+[![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher)](https://github.com/kundan-kumarr)
 
-<!--
-**kundan7kumar/kundan7kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Ph.D. Candidate | Deep Reinforcement Learning Researcher | AI  Engineer**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on DDDDDDRL
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher)](https://github.com/kundan7kumar)
-
+I'm a Ph.D. candidate in **Computer Science** with a minor in **Statistics** at **Iowa State University**, specializing in **Deep Reinforcement Learning (DRL)** and **intelligent control systems**. With over **5 years of software engineering experience**, I merge academic research with real-world development to create **scalable, secure, and high-performance AI systems**.
 
 <p align="center"><a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 <a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" /></a>
@@ -25,24 +10,75 @@ Here are some ideas to get you started:
 <a href="https://kundan-kumarr.github.io/"><img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" /></a>
 <a href="https://medium.com/@kkresearch"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" /></a>
 </p>
+---
 
-I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcement Learning (DRL) and also studying Statistics as a minor. I possess a solid background in computer science and have worked in software development for 5 years. I have a strong enthusiasm for using reinforcement learning methods to tackle intricate issues and develop intelligent agents capable of learning and adjusting in ever-changing settings. Through my vast background in software development, my abilities in problem-solving and programming have been sharpened, allowing me to be a versatile researcher capable of connecting theoretical concepts with practical uses. I have participated in different software projects, acquiring skills in multiple programming languages and development methods, which has benefited my academic endeavors. My background includes statistical analysis, enabling me to implement rigorous data-driven methods in my research on DRL. I strive to actively participate in the advancement of intelligent algorithms in a wide range of applications, including autonomous systems and power systems, to foster innovation. My motivation stems from a love for technology, a hunger for learning, and a drive to explore the limits of computer science and AI.
+## 🔬 Research & Interests
 
-> Feel free to connect and future collaborations ⏬
-<p align ="center"> 
-<a href="https://www.linkedin.com/in/kundan-kumarr/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
-<a href="mailto:cs.kundann@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white" alt="" /></a>
-</p>
+I'm passionate about **pushing the boundaries of AI** in complex, dynamic environments. My research explores:
 
-----------------------------------------------------------------------------------------------------------------------------------
+- 🧠 **Deep Reinforcement Learning** for real-time intelligent control  
+- ⚡ **Smart Grid Optimization** using DRL and physics-informed neural networks  
+- 🛡️ **Adversarial Robustness** in intelligent agents  
+- 🧰 **Generative Models** and **LLMs** for decision-making and simulation  
+- 🤖 **Autonomous Systems** and **Cyber-Physical Infrastructure**
 
+My work blends **statistical modeling**, **applied machine learning**, and **simulation-driven development** to optimize **critical infrastructure** and build **resilient AI systems**.
+
+---
+
+## 🛠️ Technical Toolkit
+
+- **Languages:** Python, C++, Java, SQL  
+- **Frameworks:** PyTorch, TensorFlow, Stable Baselines3, Flower AI, OpenAI Gym  
+- **Simulation & Tools:** OpenDSS, SimPy, PowerGym, PyBullet, Docker  
+- **ML Skills:** DRL (PPO, A2C, SAC, DDPG), GNNs, GANs, Bayesian Modeling, Transfer Learning  
+- **Data Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- 🧠 **Physics-Informed DRL** agents for smart grid volt-var control (IEEE 13/34/123/8500 Node)
+- 🛰️ **Federated DRL Framework** for decentralized intelligence in cyber-physical systems
+- 🛡️ **Adversarial Attack & Defense Models** for DRL agents in critical environments
+- 🧩 **LLM-Digital Twin Systems** to simulate and reason about power systems
+
+📚 Check out my repositories for clean, documented code and reproducible results.
+
+---
 > Interview Preparation guide & Notes👨‍🔬 
 <p align ="center"> 
 <a href="https://github.com/kundan-kumarr/Research-Scientist_interview_Preparation"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation_Guide-orange?style=plastic&logo=Github"></a>
 <a href="https://github.com/kundan-kumarr/DRL-Research/"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research_Notes-blue?style=plastic&logo=Github&logoSize=20"></a> 
 </p>
 
------------------------------------------------
+---
+## 👥 Let’s Collaborate
+
+I'm always open to exciting opportunities in:
+- 🔍 **AI Research**
+- ⚙️ **Applied Machine Learning**
+- 🧑‍💻 **Technical Leadership**
+- 🌐 **Interdisciplinary Innovation**
+
+If you're working on **cutting-edge AI**, **intelligent systems**, or want to explore how **DRL can change the world—one algorithm at a time**, let's talk!
+
+---
+
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🧠 [Google Scholar](https://scholar.google.com/your-profile)  
+- 📝 [Personal Website](https://yourwebsite.com)  
+- 📧 Email: your.email@domain.com
+
+---
+
+> *"The best way to predict the future is to invent it."* – Alan Kay  
+> *Let's build that future—together.*
+
+---------------------------------------------------------------------------------------------------
 
 > I code with 💻 
 ###
@@ -99,6 +135,4 @@ I am currently pursuing a Ph.D. in Computer Science, focusing on Deep Reinforcem
   <p><strong>Profile Visitors</strong></p>
   <img src="https://profile-counter.glitch.me/kundan-kumarr/count.svg?" alt="Profile Visitor Count" />
 </div>
-
-###
 
