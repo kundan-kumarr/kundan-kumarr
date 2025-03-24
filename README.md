@@ -10,6 +10,7 @@ I'm a Ph.D. candidate in **Computer Science** with a minor in **Statistics** at 
 <a href="https://kundan-kumarr.github.io/"><img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" /></a>
 <a href="https://medium.com/@kkresearch"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" /></a>
 </p>
+
 ---
 
 ## 🔬 Research & Interests
@@ -65,13 +66,12 @@ If you're working on **cutting-edge AI**, **intelligent systems**, or want to ex
 
 ---
 
-
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🧠 [Google Scholar](https://scholar.google.com/your-profile)  
-- 📝 [Personal Website](https://yourwebsite.com)  
-- 📧 Email: your.email@domain.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kundan-kumarr)  
+- 🧠 [Google Scholar](https://scholar.google.com/citations?user=1zDpIJkAAAAJ&hl)  
+- 📝 [Personal Website](https://kundan-kumarr.github.io)  
+- 📧 Email: cs.kundann@gmail.com
 
 ---
 
