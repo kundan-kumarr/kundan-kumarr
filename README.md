@@ -4,7 +4,7 @@
 
 I'm a Ph.D. candidate in **Computer Science** with a minor in **Statistics** at **Iowa State University**, specializing in **Deep Reinforcement Learning (DRL)** and **intelligent control systems**. With over **5 years of software engineering experience**, I merge academic research with real-world development to create **scalable, secure, and high-performance AI systems**.
 
-<p align="center"><a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+<!--<p align="center"><a href="https://kundan-kumarr.github.io/reports/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a> -->
 <a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" /></a>
 <a href="https://orcid.org/0000-0002-3229-6649"><img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=plastic&logo=orcid&logoColor=white" alt="" /></a>
 <a href="https://kundan-kumarr.github.io/"><img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" /></a>
