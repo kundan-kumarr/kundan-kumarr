@@ -78,16 +78,6 @@ If you're working on **cutting-edge AI**, **intelligent systems**, or want to ex
 
 ---------------------------------------------------------------------------------------------------
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img src=".../pytorch-original.svg" height="40" />
-  <img src=".../numpy-original.svg" height="40" />
-  <img src=".../pandas-original.svg" height="40" />
-  <img src=".../flask-original.svg" height="40" />
-  <!-- more icons -->
-</div>
-
 > I code with 💻 
 ###
 
