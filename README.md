@@ -8,7 +8,6 @@ I'm a Ph.D. candidate in **Computer Science** with a minor in **Statistics** at 
 <a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="" /></a>
 <a href="https://orcid.org/0000-0002-3229-6649"><img src="https://img.shields.io/badge/ORCID-0000--0002--7935--0569-green.svg?&style=plastic&logo=orcid&logoColor=white" alt="" /></a>
 <a href="https://kundan-kumarr.github.io/"><img src="https://img.shields.io/badge/Website-red?style=plastic&logo=website&logoColor=red" alt="" /></a>
-<a href="https://medium.com/@kkresearch"><img src="https://img.shields.io/badge/Medium-2CA5E0?style=plastic&logo=medium&color=black" alt="" /></a>
 </p>
 
 ---
@@ -17,11 +16,11 @@ I'm a Ph.D. candidate in **Computer Science** with a minor in **Statistics** at 
 
 I'm passionate about **pushing the boundaries of AI** in complex, dynamic environments. My research explores:
 
-- 🧠 **Deep Reinforcement Learning** for real-time intelligent control  
-- ⚡ **Smart Grid Optimization** using DRL and physics-informed neural networks  
-- 🛡️ **Adversarial Robustness** in intelligent agents  
-- 🧰 **Generative Models** and **LLMs** for decision-making and simulation  
-- 🤖 **Autonomous Systems** and **Cyber-Physical Infrastructure**
+- **Deep Reinforcement Learning** for real-time intelligent control  
+- **Smart Grid Optimization** using DRL and physics-informed neural networks  
+- **Adversarial Robustness** in intelligent agents  
+- **Generative Models** and **LLMs** for decision-making and simulation  
+- **Autonomous Systems** and **Cyber-Physical Infrastructure**
 
 My work blends **statistical modeling**, **applied machine learning**, and **simulation-driven development** to optimize **critical infrastructure** and build **resilient AI systems**.
 
@@ -39,10 +38,10 @@ My work blends **statistical modeling**, **applied machine learning**, and **sim
 
 ## 🚀 Projects I'm Proud Of
 
-- 🧠 **Physics-Informed DRL** agents for smart grid volt-var control (IEEE 13/34/123/8500 Node)
-- 🛰️ **Federated DRL Framework** for decentralized intelligence in cyber-physical systems
-- 🛡️ **Adversarial Attack & Defense Models** for DRL agents in critical environments
-- 🧩 **LLM-Digital Twin Systems** to simulate and reason about power systems
+- **Physics-Informed DRL** agents for smart grid volt-var control (IEEE 13/34/123/8500 Node)
+- **Federated DRL Framework** for decentralized intelligence in cyber-physical systems
+- **Adversarial Attack & Defense Models** for DRL agents in critical environments
+- **LLM-Digital Twin Systems** to simulate and reason about power systems
 
 📚 Check out my repositories for clean, documented code and reproducible results.
 
@@ -50,7 +49,6 @@ My work blends **statistical modeling**, **applied machine learning**, and **sim
 > Interview Preparation guide & Notes👨‍🔬 
 <p align ="center"> 
 <a href="https://github.com/kundan-kumarr/Research-Scientist_interview_Preparation"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation_Guide-orange?style=plastic&logo=Github"></a>
-<a href="https://github.com/kundan-kumarr/DRL-Research/"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research_Notes-blue?style=plastic&logo=Github&logoSize=20"></a> 
 </p>
 
 ---
