@@ -12,7 +12,7 @@ I'm a Ph.D. candidate in **Computer Science** with a minor in **Statistics** at 
 
 ---
 
-## 🔬 Research & Interests
+## Research & Interests
 
 I'm passionate about **pushing the boundaries of AI** in complex, dynamic environments. My research explores:
 
@@ -26,7 +26,7 @@ My work blends **statistical modeling**, **applied machine learning**, and **sim
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 - **Languages:** Python, C++, Java, SQL  
 - **Frameworks:** PyTorch, TensorFlow, Stable Baselines3, Flower AI, OpenAI Gym  
@@ -36,7 +36,7 @@ My work blends **statistical modeling**, **applied machine learning**, and **sim
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## Projects I'm Proud Of
 
 - **Physics-Informed DRL** agents for smart grid volt-var control (IEEE 13/34/123/8500 Node)
 - **Federated DRL Framework** for decentralized intelligence in cyber-physical systems
@@ -46,7 +46,7 @@ My work blends **statistical modeling**, **applied machine learning**, and **sim
 📚 Check out my repositories for clean, documented code and reproducible results.
 
 ---
-> Interview Preparation guide & Notes👨‍🔬 
+> Interview Preparation guide & Notes 
 <p align ="center"> 
 <a href="https://github.com/kundan-kumarr/Research-Scientist_interview_Preparation"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation_Guide-orange?style=plastic&logo=Github"></a>
 </p>
@@ -55,21 +55,21 @@ My work blends **statistical modeling**, **applied machine learning**, and **sim
 ## 👥 Let’s Collaborate
 
 I'm always open to exciting opportunities in:
-- 🔍 **AI Research**
-- ⚙️ **Applied Machine Learning**
-- 🧑‍💻 **Technical Leadership**
-- 🌐 **Interdisciplinary Innovation**
+- **AI Research**
+-  **Applied Machine Learning**
+- **Technical Leadership**
+- **Interdisciplinary Innovation**
 
 If you're working on **cutting-edge AI**, **intelligent systems**, or want to explore how **DRL can change the world—one algorithm at a time**, let's talk!
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kundan-kumarr)  
-- 🧠 [Google Scholar](https://scholar.google.com/citations?user=1zDpIJkAAAAJ&hl)  
-- 📝 [Personal Website](https://kundan-kumarr.github.io)  
-- 📧 Email: cs.kundann@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kundan-kumarr)  
+- [Google Scholar](https://scholar.google.com/citations?user=1zDpIJkAAAAJ&hl)  
+- [Personal Website](https://kundan-kumarr.github.io)  
+- Email: cs.kundann@gmail.com
 
 ---
 
