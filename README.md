@@ -48,7 +48,7 @@ My work blends **statistical modeling**, **applied machine learning**, and **sim
 ---
 > Interview Preparation guide & Notes 
 <p align ="center"> 
-<a href="https://github.com/kundan-kumarr/Research-Scientist_interview_Preparation"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation_Guide-orange?style=plastic&logo=Github"></a>
+<a href="https://kundan-kumarr.github.io/ResearchScientist-Handbook/"><img alt="Static Badge" src="https://img.shields.io/badge/Github-Research%2F_Data_Scientist_Interview_Preparation_Guide-orange?style=plastic&logo=Github"></a>
 </p>
 
 ---
