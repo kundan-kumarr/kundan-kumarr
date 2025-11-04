@@ -147,9 +147,9 @@
   <br>
   <b>Let's build that future — together.</b>
 </p>
-<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
+<!-- <h2 align="center">🧰 Languages, Frameworks & Tools</h2>
 
-<p align="center">
+<!--<p align="center">
   <a href="#"><img title="Python" height="30" src="images/python-original.svg"></a>&nbsp;
   <a href="#"><img title="C++" height="30" src="images/cpp.svg"></a>&nbsp;
   <a href="#"><img title="Java" height="30" src="images/java-original.svg"></a>&nbsp;
@@ -167,7 +167,7 @@
   <a href="#"><img title="Seaborn" height="30" src="images/seaborn.svg"></a>&nbsp;
   <a href="#"><img title="GitHub" height="30" src="images/github.svg"></a>&nbsp;
   <a href="#"><img title="VS Code" height="30" src="images/vscode.png"></a>
-</p>
+</p> -->
 
 <h2 align="center">🧰 Languages, Frameworks & Tools</h2>
 
