@@ -169,7 +169,7 @@
   <a href="#"><img title="VS Code" height="30" src="images/vscode.png"></a>
 </p> -->
 
-<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
+<!--<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -185,3 +185,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>
 </p>
+-->
