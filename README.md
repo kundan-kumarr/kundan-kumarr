@@ -10,28 +10,6 @@ output:
 
 
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kundan-kumarr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kundan-kumarr&theme=dracula&margin-w=10&margin-h=10" height="150" alt="GitHub trophy" />
-</div>
-
-### 🎮
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kundan-kumarr.kundan-kumarr" alt="visitor badge">
 
 <h1 align="center">
