@@ -111,9 +111,10 @@
   <a align="left" href="https://github.com/kundan-kumarr/Zero2LLM-Crafter" title="Zero2LLM-Crafter">
   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=Zero2LLM-Crafter&theme=react&border_color=61dafb&border_radius=10" alt="Zero2LLM-Crafter Repository">
 </a>
-  <a align="right" href="https://github.com/kundan-kumarr/SmartGrid-Adversarial-Attack-Defense" title="Adversarial DRL">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=SmartGrid-Adversarial-Attack-Defense&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+  <a align="left" href="https://github.com/kundan-kumarr/statsphere" title="StatSphere">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=statsphere&theme=react&border_color=61dafb&border_radius=10" alt="StatSphere Repository">
+</a>
+
 </div>
 
 <br/><br/><br/><br/><br/><br/>
