@@ -132,12 +132,12 @@
   <b>Let's build that future — together.</b>
 </p>
 
-> *"The best way to predict the future is to invent it."* – **Alan Kay**  
-> *Let's build that future—together.*
-
 ---
 
 
 
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=500&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher+%7C+Ph.D.+Candidate+%7C+Engineer)](https://github.com/kundan-kumarr) -->
+<!-- 
+> *"The best way to predict the future is to invent it."* – **Alan Kay**  
+> *Let's build that future—together.* -->
