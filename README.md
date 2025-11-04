@@ -39,7 +39,7 @@
 
 <hr>
 
-<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
+<p align="center" style="background-color:transparent;">
 
 <p align="center">
   <!-- Programming Languages -->
