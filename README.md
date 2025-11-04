@@ -97,12 +97,13 @@
 <h2 align="center">🏆 Featured Repositories 🏆</h2>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/kundan-kumarr/Physics-Informed-DRL" title="Physics-Informed DRL">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=Physics-Informed-DRL&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/kundan-kumarr/Federated-DRL-Framework" title="Federated DRL Framework">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=Federated-DRL-Framework&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+  <a align="left" href="https://github.com/kundan-kumarr/ResearchScientist-Handbook" title="Research Scientist Handbook">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ResearchScientist-Handbook&theme=react&border_color=61dafb&border_radius=10" alt="Research Scientist Handbook Repository">
+</a>
+
+  <a align="right" href="https://github.com/kundan-kumarr/safe-AI" title="Safe AI">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=safe-AI&theme=react&border_color=61dafb&border_radius=10" alt="Safe AI Repository">
+</a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
