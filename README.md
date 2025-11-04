@@ -130,3 +130,24 @@
   <br>
   <b>Let's build that future — together.</b>
 </p>
+<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
+
+<p align="center">
+  <a href="#"><img title="Python" height="30" src="images/python-original.svg"></a>&nbsp;
+  <a href="#"><img title="C++" height="30" src="images/cpp.svg"></a>&nbsp;
+  <a href="#"><img title="Java" height="30" src="images/java-original.svg"></a>&nbsp;
+  <a href="#"><img title="PyTorch" height="30" src="images/pytorch.svg"></a>&nbsp;
+  <a href="#"><img title="TensorFlow" height="30" src="images/tensorflow.svg"></a>&nbsp;
+  <a href="#"><img title="Stable Baselines3" height="30" src="images/sb3.svg"></a>&nbsp;
+  <a href="#"><img title="OpenAI Gym" height="30" src="images/openai.svg"></a>&nbsp;
+  <a href="#"><img title="Docker" height="30" src="images/docker.svg"></a>&nbsp;
+  <a href="#"><img title="Flower AI" height="30" src="images/flowerai.svg"></a>&nbsp;
+  <a href="#"><img title="OpenDSS" height="30" src="images/opendss.png"></a>&nbsp;
+  <a href="#"><img title="PowerGym" height="30" src="images/powergym.png"></a>&nbsp;
+  <a href="#"><img title="Pandas" height="30" src="images/pandas.svg"></a>&nbsp;
+  <a href="#"><img title="NumPy" height="30" src="images/numpy.svg"></a>&nbsp;
+  <a href="#"><img title="Matplotlib" height="30" src="images/matplotlib.svg"></a>&nbsp;
+  <a href="#"><img title="Seaborn" height="30" src="images/seaborn.svg"></a>&nbsp;
+  <a href="#"><img title="GitHub" height="30" src="images/github.svg"></a>&nbsp;
+  <a href="#"><img title="VS Code" height="30" src="images/vscode.png"></a>
+</p>
