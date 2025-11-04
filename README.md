@@ -1,5 +1,6 @@
 [![kundan7kumar](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher)](https://github.com/kundan-kumarr)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 🎓 **Ph.D. Candidate | Deep Reinforcement Learning Researcher | AI  Engineer**
 
 I'm a Ph.D. candidate in **Computer Science** with a minor in **Statistics** at **Iowa State University**, specializing in **Deep Reinforcement Learning (DRL)** and **intelligent control systems**. With over **5 years of software engineering experience**, I merge academic research with real-world development to create **scalable, secure, and high-performance AI systems**.
