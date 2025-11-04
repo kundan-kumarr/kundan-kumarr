@@ -1,5 +1,15 @@
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=500&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher+%7C+Ph.D.+Candidate+%7C+Engineer)](https://github.com/kundan-kumarr) -->
+---
+title: "Kundan Kumar | AI Researcher"
+format:
+  html:
+    toc: false
+    page-layout: full
+    css: |
+      h1, h2, h3 { text-align: center; }
+      hr { border: 0; height: 1px; background: linear-gradient(to right, #61dafb, #0e76a8, #61dafb); }
+      p, li { font-size: 1em; line-height: 1.6; }
+  pdf: default
+---
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kundan-kumarr.kundan-kumarr" alt="visitor badge">
 
@@ -10,10 +20,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/kundan-kumarr/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ" title="Google Scholar Profile"><img width="22" src="images/google-scholar.svg"> Scholar</a></code>
-  <code><a href="https://orcid.org/0000-0002-3229-6649" title="ORCID"><img width="22" src="images/orcid.svg"> ORCID</a></code>
-  <code><a href="https://kundan-kumarr.github.io/" title="Personal Website"><img width="22" src="images/website.svg"> Website</a></code>
+  <code><a href="https://www.linkedin.com/in/kundan-kumarr/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg" alt="LinkedIn Icon"> LinkedIn</a></code>
+  <code><a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ" title="Google Scholar Profile"><img width="22" src="images/google-scholar.svg" alt="Google Scholar Icon"> Scholar</a></code>
+  <code><a href="https://orcid.org/0000-0002-3229-6649" title="ORCID"><img width="22" src="images/orcid.svg" alt="ORCID Icon"> ORCID</a></code>
+  <code><a href="https://kundan-kumarr.github.io/" title="Personal Website"><img width="22" src="images/website.svg" alt="Website Icon"> Website</a></code>
 </h5>
 
 <br>
@@ -32,7 +42,7 @@
 
 <hr>
 
-<h2 align="center">Research & Interests </h2>
+<h2 align="center">🔬 Research & Interests</h2>
 
 <p align="center">
   <b>Deep Reinforcement Learning</b> • <b>Federated Learning</b> • <b>Smart Grid Optimization</b> • <b>Adversarial Robustness</b> • <b>Generative AI</b> • <b>LLM Agents</b>
@@ -40,7 +50,7 @@
 
 <hr>
 
-<h2 align="center">Languages, Frameworks & Tools </h2>
+<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
@@ -53,7 +63,6 @@
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="Flower AI" height="25" src="images/flowerai.svg"></code>
   <code><img title="OpenDSS" height="25" src="images/opendss.png"></code>
-  <code><img title="PowerGym" height="25" src="images/powergym.png"></code>
   <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
   <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
   <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
@@ -68,15 +77,16 @@
   <img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
 </div>
 
+<hr>
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=kundan-kumarr&theme=react&border=61dafb&hide_border=true" alt="streak graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Streak Stats">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=kundan-kumarr&theme=react&border=61dafb&hide_border=true" alt="GitHub streak graph" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=kundan-kumarr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Profile Stats">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=kundan-kumarr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub stats card" />
   </a>
 </p>
 
@@ -84,38 +94,37 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan-kumarr&hide=R,Mathematica,Shell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan-kumarr&hide=R,Mathematica,Shell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages Chart" />
   </a>
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundan-kumarr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundan-kumarr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 <hr>
 
-<h2 align="center">🏆 Featured Repositories 🏆</h2>
+<h2 align="center">🏆 Featured Repositories</h2>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kundan-kumarr/ResearchScientist-Handbook" title="Research Scientist Handbook">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ResearchScientist-Handbook&theme=react&border_color=61dafb&border_radius=10" alt="Research Scientist Handbook Repository">
-</a>
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ResearchScientist-Handbook&theme=react&border_color=61dafb&border_radius=10" alt="Research Scientist Handbook Repository">
+  </a>
 
   <a align="right" href="https://github.com/kundan-kumarr/safe-AI" title="Safe AI">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=safe-AI&theme=react&border_color=61dafb&border_radius=10" alt="Safe AI Repository">
-</a>
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=safe-AI&theme=react&border_color=61dafb&border_radius=10" alt="Safe AI Repository">
+  </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kundan-kumarr/Zero2LLM-Crafter" title="Zero2LLM-Crafter">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=Zero2LLM-Crafter&theme=react&border_color=61dafb&border_radius=10" alt="Zero2LLM-Crafter Repository">
-</a>
-  <a align="left" href="https://github.com/kundan-kumarr/statsphere" title="StatSphere">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=statsphere&theme=react&border_color=61dafb&border_radius=10" alt="StatSphere Repository">
-</a>
-
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=Zero2LLM-Crafter&theme=react&border_color=61dafb&border_radius=10" alt="Zero2LLM-Crafter Repository">
+  </a>
+  <a align="right" href="https://github.com/kundan-kumarr/statsphere" title="StatSphere">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=statsphere&theme=react&border_color=61dafb&border_radius=10" alt="StatSphere Repository">
+  </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
@@ -131,13 +140,3 @@
   <br>
   <b>Let's build that future — together.</b>
 </p>
-
----
-
-
-
-<!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=500&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher+%7C+Ph.D.+Candidate+%7C+Engineer)](https://github.com/kundan-kumarr) -->
-<!-- 
-> *"The best way to predict the future is to invent it."* – **Alan Kay**  
-> *Let's build that future—together.* -->
