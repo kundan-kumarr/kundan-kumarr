@@ -42,28 +42,6 @@
 <h2 align="center">🧰 Languages, Frameworks & Tools</h2>
 
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="PyTorch" height="25" src="images/pytorch.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
-  <code><img title="Stable Baselines3" height="25" src="images/sb3.svg"></code>
-  <code><img title="OpenAI Gym" height="25" src="images/openai.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Flower AI" height="25" src="images/flowerai.svg"></code>
-  <code><img title="OpenDSS" height="25" src="images/opendss.png"></code>
-  <code><img title="PowerGym" height="25" src="images/powergym.png"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
-</p>
-
-<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
