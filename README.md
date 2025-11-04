@@ -1,15 +1,4 @@
----
-title: "Kundan Kumar | AI Researcher"
-format:
-  html:
-    toc: false
-    page-layout: full
-    css: |
-      h1, h2, h3 { text-align: center; }
-      hr { border: 0; height: 1px; background: linear-gradient(to right, #61dafb, #0e76a8, #61dafb); }
-      p, li { font-size: 1em; line-height: 1.6; }
-  pdf: default
----
+<!-- Magic Profile README for github.com/kundan-kumarr -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kundan-kumarr.kundan-kumarr" alt="visitor badge">
 
@@ -63,6 +52,7 @@ format:
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="Flower AI" height="25" src="images/flowerai.svg"></code>
   <code><img title="OpenDSS" height="25" src="images/opendss.png"></code>
+  <code><img title="PowerGym" height="25" src="images/powergym.png"></code>
   <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
   <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
   <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
@@ -96,7 +86,7 @@ format:
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Streak Stats">
@@ -156,4 +146,25 @@ format:
   <i>"The best way to predict the future is to invent it." – Alan Kay</i>
   <br>
   <b>Let's build that future — together.</b>
+</p>
+<h2 align="center">🧰 Languages, Frameworks & Tools</h2>
+
+<p align="center">
+  <a href="#"><img title="Python" height="30" src="images/python-original.svg"></a>&nbsp;
+  <a href="#"><img title="C++" height="30" src="images/cpp.svg"></a>&nbsp;
+  <a href="#"><img title="Java" height="30" src="images/java-original.svg"></a>&nbsp;
+  <a href="#"><img title="PyTorch" height="30" src="images/pytorch.svg"></a>&nbsp;
+  <a href="#"><img title="TensorFlow" height="30" src="images/tensorflow.svg"></a>&nbsp;
+  <a href="#"><img title="Stable Baselines3" height="30" src="images/sb3.svg"></a>&nbsp;
+  <a href="#"><img title="OpenAI Gym" height="30" src="images/openai.svg"></a>&nbsp;
+  <a href="#"><img title="Docker" height="30" src="images/docker.svg"></a>&nbsp;
+  <a href="#"><img title="Flower AI" height="30" src="images/flowerai.svg"></a>&nbsp;
+  <a href="#"><img title="OpenDSS" height="30" src="images/opendss.png"></a>&nbsp;
+  <a href="#"><img title="PowerGym" height="30" src="images/powergym.png"></a>&nbsp;
+  <a href="#"><img title="Pandas" height="30" src="images/pandas.svg"></a>&nbsp;
+  <a href="#"><img title="NumPy" height="30" src="images/numpy.svg"></a>&nbsp;
+  <a href="#"><img title="Matplotlib" height="30" src="images/matplotlib.svg"></a>&nbsp;
+  <a href="#"><img title="Seaborn" height="30" src="images/seaborn.svg"></a>&nbsp;
+  <a href="#"><img title="GitHub" height="30" src="images/github.svg"></a>&nbsp;
+  <a href="#"><img title="VS Code" height="30" src="images/vscode.png"></a>
 </p>
