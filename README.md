@@ -64,6 +64,11 @@
 
 <hr>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
+</div>
+
+
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
 <p align="center">
@@ -130,15 +135,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kundan-kumarr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kundan-kumarr&theme=dracula&margin-w=10&margin-h=10" height="150" alt="GitHub trophy" />
-</div>
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=500&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher+%7C+Ph.D.+Candidate+%7C+Engineer)](https://github.com/kundan-kumarr)
+<!-- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=500&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher+%7C+Ph.D.+Candidate+%7C+Engineer)](https://github.com/kundan-kumarr) -->
