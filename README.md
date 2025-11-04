@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 align="center">🚀 Research & Interests 🚀</h2>
+<h2 align="center">Research & Interests </h2>
 
 <p align="center">
   <b>Deep Reinforcement Learning</b> • <b>Federated Learning</b> • <b>Smart Grid Optimization</b> • <b>Adversarial Robustness</b> • <b>Generative AI</b> • <b>LLM Agents</b>
@@ -40,7 +40,7 @@
 
 <hr>
 
-<h2 align="center">🧠 Languages, Frameworks & Tools 🧠</h2>
+<h2 align="center">Languages, Frameworks & Tools </h2>
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
@@ -139,14 +139,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kundan-kumarr&theme=dracula&margin-w=10&margin-h=10" height="150" alt="GitHub trophy" />
 </div>
 
-### 🎮
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=500&lines=Hi%2C+I'm+Kundan+Kumar+%F0%9F%91%8B;AI+Researcher+%7C+Ph.D.+Candidate+%7C+Engineer)](https://github.com/kundan-kumarr)
