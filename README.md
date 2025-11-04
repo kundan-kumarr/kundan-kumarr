@@ -1,15 +1,4 @@
----
-title: "Kundan Kumar | AI Researcher"
-format:
-  html:
-    toc: false
-    page-layout: full
-    css: |
-      h1, h2, h3 { text-align: center; }
-      hr { border: 0; height: 1px; background: linear-gradient(to right, #61dafb, #0e76a8, #61dafb); }
-      p, li { font-size: 1em; line-height: 1.6; }
-  pdf: default
----
+<!-- Magic Profile README for github.com/kundan-kumarr -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kundan-kumarr.kundan-kumarr" alt="visitor badge">
 
@@ -63,6 +52,7 @@ format:
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="Flower AI" height="25" src="images/flowerai.svg"></code>
   <code><img title="OpenDSS" height="25" src="images/opendss.png"></code>
+  <code><img title="PowerGym" height="25" src="images/powergym.png"></code>
   <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
   <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
   <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
@@ -79,7 +69,7 @@ format:
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Streak Stats">
