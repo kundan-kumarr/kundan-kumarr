@@ -37,7 +37,8 @@ informed learning to improve control, safety, and generalization under uncertain
 adversarial robustness, and data efficiency by embedding domain constraints into learning processes and designing agents capable
 of operating in dynamic, resource‑constrained settings. I also explore the integration of large language models (LLMs) to enhance
 context‑awareness and human‑AI interaction in control frameworks.
-• Transfer Learning, Meta‑Learning, Multi‑agent, Natural Language Processing
+
+
 <p align="center">
   <b>Deep Reinforcement Learning</b> • <b>Federated Learning</b> • <b>Smart Grid Optimization</b> • <b>Adversarial Robustness</b> • <b>Generative AI</b> • <b>LLM Agents</b>
 </p>
