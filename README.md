@@ -3,13 +3,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kundan-kumarr.kundan-kumarr" alt="visitor badge">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Kundan+Kumar....;AI+Researcher+|+PhD+Candidate;&center=true&size=28">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Kundan+Kumar....;AI+Researcher+;Building+Intelligent+%26+Resilient+Systems" alt="Typing SVG" /></a>
   </a>
 </h1>
 
+<!-- <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Kundan+Kumar....;AI+Researcher+|+PhD+Candidate;&center=true&size=28"> -->
+   
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Kundan+Kumar....;AI+Researcher+;Building+Intelligent+%26+Resilient+Systems" alt="Typing SVG" /></a>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/kundan-kumarr/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg" alt="LinkedIn Icon"> LinkedIn</a></code>
