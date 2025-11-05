@@ -31,7 +31,13 @@
 <hr>
 
 <h2 align="center">🔬 Research & Interests</h2>
-
+My research focuses on building robust and adaptive AI systems for cyber‑physical infrastructure, particularly in smart energy en‑
+vironments. I develop scalable algorithms that integrate deep reinforcement learning (DRL), probabilistic modeling, and physics‑
+informed learning to improve control, safety, and generalization under uncertainty. My work addresses challenges in transferability,
+adversarial robustness, and data efficiency by embedding domain constraints into learning processes and designing agents capable
+of operating in dynamic, resource‑constrained settings. I also explore the integration of large language models (LLMs) to enhance
+context‑awareness and human‑AI interaction in control frameworks.
+• Transfer Learning, Meta‑Learning, Multi‑agent, Natural Language Processing
 <p align="center">
   <b>Deep Reinforcement Learning</b> • <b>Federated Learning</b> • <b>Smart Grid Optimization</b> • <b>Adversarial Robustness</b> • <b>Generative AI</b> • <b>LLM Agents</b>
 </p>
