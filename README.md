@@ -7,11 +7,6 @@
   </a>
 </h1>
 
-<!-- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Kundan+Kumar....;AI+Researcher+|+PhD+Candidate;&center=true&size=28"> -->
-   
-
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/kundan-kumarr/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg" alt="LinkedIn Icon"> LinkedIn</a></code>
   <code><a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ" title="Google Scholar Profile"><img width="22" src="images/google-scholar.svg" alt="Google Scholar Icon"> Scholar</a></code>
@@ -87,6 +82,15 @@
 </div>
 
 <hr>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=kundan-kumarr&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kundan-kumarr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Profile Stats" />
+</p>
+
+
 
 <h2 align="center">📈 GitHub Stats</h2>
 
