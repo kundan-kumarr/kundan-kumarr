@@ -83,20 +83,6 @@
 
 <hr>
 
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app?user=kundan-kumarr&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kundan-kumarr&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan-kumarr&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
-
-
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
