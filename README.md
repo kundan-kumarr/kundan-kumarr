@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Kundan+Kumar....;AI+Researcher+|+PhD+Candidate;&center=true&size=28">
   </a>
 </h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Kundan+Kumar....;AI+Researcher+;Building+Intelligent+%26+Resilient+Systems)](https://git.io/typing-svg)
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/kundan-kumarr/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg" alt="LinkedIn Icon"> LinkedIn</a></code>
   <code><a href="https://scholar.google.com/citations?user=1zDpIJkAAAAJ" title="Google Scholar Profile"><img width="22" src="images/google-scholar.svg" alt="Google Scholar Icon"> Scholar</a></code>
