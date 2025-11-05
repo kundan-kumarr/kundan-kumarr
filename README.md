@@ -83,11 +83,12 @@
 
 <hr>
 
+
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=kundan-kumarr&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kundan-kumarr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Profile Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kundan-kumarr&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kundan-kumarr&show_icons=true&theme=react&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </p>
 
 
