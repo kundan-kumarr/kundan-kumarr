@@ -154,42 +154,48 @@ context‑awareness and human‑AI interaction in control frameworks.
 
 <h2 align="center">🏆 Featured Repositories</h2>
 
+<h2 align="center">🏆 Featured Repositories</h2>
+
 <!-- Row 1 -->
-<div align="center" style="margin: 40px 0;">
-  <a href="https://github.com/kundan-kumarr/ResearchScientist-Handbook" title="Research Scientist Handbook">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ResearchScientist-Handbook&theme=react&border_color=61dafb&border_radius=10" alt="Research Scientist Handbook Repository">
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kundan-kumarr/ResearchScientist-Handbook" title="Research Scientist Handbook">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ResearchScientist-Handbook&theme=react&border_color=61dafb&border_radius=10" alt="Research Scientist Handbook Repository">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kundan-kumarr/safe-AI" title="Safe AI">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=safe-AI&theme=react&border_color=61dafb&border_radius=10" alt="Safe AI Repository">
+  <a align="right" href="https://github.com/kundan-kumarr/safe-AI" title="Safe AI">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=safe-AI&theme=react&border_color=61dafb&border_radius=10" alt="Safe AI Repository">
   </a>
 </div>
+
+<br/><br/><br/><br/><br/><br/>
 
 <!-- Row 2 -->
-<div align="center" style="margin: 40px 0;">
-  <a href="https://github.com/kundan-kumarr/Zero2LLM-Crafter" title="Zero2LLM-Crafter">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=Zero2LLM-Crafter&theme=react&border_color=61dafb&border_radius=10" alt="Zero2LLM-Crafter Repository">
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kundan-kumarr/Zero2LLM-Crafter" title="Zero2LLM-Crafter">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=Zero2LLM-Crafter&theme=react&border_color=61dafb&border_radius=10" alt="Zero2LLM-Crafter Repository">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kundan-kumarr/statsphere" title="StatSphere">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=statsphere&theme=react&border_color=61dafb&border_radius=10" alt="StatSphere Repository">
+  <a align="right" href="https://github.com/kundan-kumarr/statsphere" title="StatSphere">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=statsphere&theme=react&border_color=61dafb&border_radius=10" alt="StatSphere Repository">
   </a>
 </div>
 
+<br/><br/><br/><br/><br/><br/>
+
 <!-- Row 3 -->
-<div align="center" style="margin: 40px 0;">
-  <a href="https://github.com/kundan-kumarr/CodeGrind" title="Algorithmic Coding">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=CodeGrind&theme=react&border_color=61dafb&border_radius=10" alt="CodeGrind Repository">
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kundan-kumarr/CodeGrind" title="Algorithmic Coding">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=CodeGrind&theme=react&border_color=61dafb&border_radius=10" alt="CodeGrind Repository">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kundan-kumarr/ai-analysis" title="Machine Learning">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ai-analysis&theme=react&border_color=61dafb&border_radius=10" alt="AI Analysis Repository">
+  <a align="right" href="https://github.com/kundan-kumarr/ai-analysis" title="Machine Learning">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ai-analysis&theme=react&border_color=61dafb&border_radius=10" alt="AI Analysis Repository">
   </a>
 </div>
+
+<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/kundan-kumarr?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
 
 
 <h4 align="center">
