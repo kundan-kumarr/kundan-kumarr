@@ -138,8 +138,8 @@ context‑awareness and human‑AI interaction in control frameworks.
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=statsphere&theme=react&border_color=61dafb&border_radius=10" alt="StatSphere Repository">
   </a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
-<!-- 🔹 Additional Featured Repositories Section -->
 <div align="center" style="margin: 40px 0;">
   <a href="https://github.com/kundan-kumarr/CodeGrind" title="Algorithmic Coding">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=CodeGrind&theme=react&border_color=61dafb&border_radius=10" alt="CodeGrind Repository">
