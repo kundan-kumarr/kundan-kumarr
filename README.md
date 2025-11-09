@@ -139,6 +139,18 @@ context‑awareness and human‑AI interaction in control frameworks.
   </a>
 </div>
 
+<!-- 🔹 Additional Featured Repositories Section -->
+<div align="center" style="margin: 40px 0;">
+  <a href="https://github.com/kundan-kumarr/CodeGrind" title="Algorithmic Coding">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=CodeGrind&theme=react&border_color=61dafb&border_radius=10" alt="CodeGrind Repository">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kundan-kumarr/ai-analysis" title="Machine Learning">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kundan-kumarr&repo=ai-analysis&theme=react&border_color=61dafb&border_radius=10" alt="AI Analysis Repository">
+  </a>
+</div>
+
+
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
