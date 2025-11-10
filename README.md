@@ -21,13 +21,13 @@
   <br>
   🔬 My research focuses on <b>Deep Reinforcement Learning</b>, <b>LLM-based intelligent control</b>, and <b>AI for Smart Grids</b>.
   <br>
-  ⚡ I love designing <b>physics-informed, sustainable, and secure AI systems</b>.
+  ⚡ I’m passionate about designing <b>physics-informed, sustainable, and secure AI systems</b>.
   <br>
-  💻 I enjoy teaching, mentoring, and building AI-powered applications for societal impact.
+  💻 I enjoy teaching, mentoring, and developing <b>AI-powered applications</b> for societal impact.
   <br>
-  📫 Reach me at <a href="mailto:cs.kundann@gmail.com">cs.kundann@gmail.com</a>
+  📫 Reach me at <a href="mailto:cs.kundann@gmail.com"><b>cs.kundann@gmail.com</b></a>
   <br><br>
-  🌐 <a href="https://kundan-kumarr.github.io/" target="_blank"><b>Website</b></a> |
+  You can follow my work on  
   📰 <a href="https://neuravp.substack.com/" target="_blank"><b>Substack</b></a> |
   🎥 <a href="https://www.youtube.com/@AIAgentic-007" target="_blank"><b>YouTube</b></a>
 </p>
