@@ -28,6 +28,22 @@
   📫 Reach me at <a href="mailto:cs.kundann@gmail.com">cs.kundann@gmail.com</a>
 </p>
 
+<p align="center">
+  Hi, I'm <b>Kundan Kumar</b> — a <b>Ph.D. Candidate</b> in Computer Science with a minor in Statistics at <b>Iowa State University</b>.
+  <br>
+  🔬 My research focuses on <b>Deep Reinforcement Learning</b>, <b>LLM-based intelligent control</b>, and <b>AI for Smart Grids</b>.
+  <br>
+  ⚡ I love designing <b>physics-informed, sustainable, and secure AI systems</b>.
+  <br>
+  💻 I enjoy teaching, mentoring, and building AI-powered applications for societal impact.
+  <br>
+  📫 Reach me at <a href="mailto:cs.kundann@gmail.com">cs.kundann@gmail.com</a>
+  <br><br>
+  🌐 <a href="https://kundan-kumarr.github.io/" target="_blank"><b>Website</b></a> |
+  📰 <a href="https://neuravp.substack.com/" target="_blank"><b>Substack</b></a> |
+  🎥 <a href="https://www.youtube.com/@AIAgentic-007" target="_blank"><b>YouTube</b></a>
+</p>
+
 <hr>
 
 <h2 align="center">🔬 Research & Interests</h2>
